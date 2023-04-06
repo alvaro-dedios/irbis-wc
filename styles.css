@@ -1,0 +1,71 @@
+:root {
+  --irbis-font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana;
+  --irbis-border-radius: 2px;
+  --irbis-font-size: 14px;
+  --irbis-stroke-width: 1px;
+
+  --irbis-button-border-color: #d1d1d1;
+  --irbis-button-padding: 8px 16px;
+
+  --irbis-button-active-background-color: #ebebeb;
+  --irbis-button-active-border-color: #bebebe;
+  --irbis-button-background-color: #ffffff;
+  --irbis-button-color: #262626;
+  --irbis-button-focus-border-color: #8a8a8a;
+  --irbis-button-hover-background-color: #f5f5f5;
+  --irbis-button-hover-border-color: #bebebe;
+
+  --irbis-button-dark-active-background-color: #1f1f1f;
+  --irbis-button-dark-active-border-color: #8a8a8a;
+  --irbis-button-dark-background-color: #262626;
+  --irbis-button-dark-border-color: #8a8a8a;
+  --irbis-button-dark-color: #fff;
+  --irbis-button-dark-focus-border-color: #bebebe;
+  --irbis-button-dark-hover-background-color: #393939;
+  --irbis-button-dark-hover-border-color: #8a8a8a;
+
+  --irbis-button-primary-active-background-color: #005a9e;
+  --irbis-button-primary-active-border-color: #005a9e;
+  --irbis-button-primary-background-color: #0078d4;
+  --irbis-button-primary-border-color: #0078d4;
+  --irbis-button-primary-color: #fff;
+  --irbis-button-primary-focus-border-color: #005a9e;
+  --irbis-button-primary-hover-background-color: #106ebe;
+  --irbis-button-primary-hover-border-color: #106ebe;
+
+  --irbis-button-success-active-background-color: #0b530b;
+  --irbis-button-success-active-border-color: #0b530b;
+  --irbis-button-success-background-color: #107c10;
+  --irbis-button-success-border-color: #107c10;
+  --irbis-button-success-color: #fff;
+  --irbis-button-success-focus-border-color: #0b530b;
+  --irbis-button-success-hover-background-color: #0f6a0f;
+  --irbis-button-success-hover-border-color: #0f6a0f;
+
+  --irbis-button-warning-active-background-color: #cc6a00;
+  --irbis-button-warning-active-border-color: #cc6a00;
+  --irbis-button-warning-background-color: #ff8c00;
+  --irbis-button-warning-border-color: #ff8c00;
+  --irbis-button-warning-color: #fff;
+  --irbis-button-warning-focus-border-color: #cc6a00;
+  --irbis-button-warning-hover-background-color: #e67600;
+  --irbis-button-warning-hover-border-color: #e67600;
+
+  --irbis-button-danger-active-background-color: #8a2028;
+  --irbis-button-danger-active-border-color: #8a2028;
+  --irbis-button-danger-background-color: #a4262c;
+  --irbis-button-danger-border-color: #a4262c;
+  --irbis-button-danger-color: #fff;
+  --irbis-button-danger-focus-border-color: #8a2028;
+  --irbis-button-danger-hover-background-color: #b13a40;
+  --irbis-button-danger-hover-border-color: #b13a40;
+
+  --irbis-button-disabled-active-background-color: #f4f4f4;
+  --irbis-button-disabled-active-border-color: #f4f4f4;
+  --irbis-button-disabled-background-color: #f4f4f4;
+  --irbis-button-disabled-border-color: #f4f4f4;
+  --irbis-button-disabled-color: #a6a6a6;
+  --irbis-button-disabled-focus-border-color: #f4f4f4;
+  --irbis-button-disabled-hover-background-color: #f4f4f4;
+  --irbis-button-disabled-hover-border-color: #f4f4f4;
+}

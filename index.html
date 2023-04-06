@@ -7,6 +7,8 @@
       content="width=device-width, initial-scale=1.0, viewport-fit=cover"
     />
     <meta name="Description" content="Put your description here." />
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.cdnfonts.com/css/montserrat" rel="stylesheet">
     <base href="/" />
 
     <style>
@@ -14,16 +16,26 @@
       body {
         margin: 0;
         padding: 0;
-        font-family: sans-serif;
         background-color: #ededed;
       }
     </style>
     <title>irbis-app</title>
   </head>
 
-  <body>
-    <irbis-app></irbis-app>
-
-    <script type="module" src="./out-tsc/src/irbis-app.js"></script>
+  <body style="padding: 20px">
+    <!-- <irbis-app></irbis-app> -->
+    <irbis-button>Irbis Button</irbis-button>
+    <irbis-button disabled>Irbis Button</irbis-button>
+    <irbis-button model="is-loading">Irbis Button</irbis-button>
+    <irbis-button model="dark">Irbis Button</irbis-button>
+    <irbis-button model="primary">Irbis Button</irbis-button>
+    <irbis-button model="success">Irbis Button</irbis-button>
+    <irbis-button model="warning">Irbis Button</irbis-button>
+    <irbis-button model="danger">Irbis Button</irbis-button>
+    <!-- <script type="module" src="./out-tsc/src/irbis-app.js"></script> -->
+    <script
+      type="module"
+      src="./out-tsc/src/components/irbis-button.js"
+    ></script>
   </body>
 </html>
